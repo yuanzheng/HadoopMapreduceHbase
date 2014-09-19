@@ -1,8 +1,8 @@
-###US CPI and GDP Import###
+###U.S. CPI and GDP Import###
 ####Automaticate external data import for CPI and GDP into hbase for training models####
 ====================
 
-Source codes are in: /src/main/java/
+#Source codes are in: /src/main/java/
 			package: com.isdc.neuralytics.infrastructure
 		 Java files: EconomicDataImport.java
 		 			 CPIImport.java
